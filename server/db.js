@@ -26,6 +26,9 @@ const CreatorSchema = new EntitySchema({
         img: {
             type: "text"
         },
+        about: {
+            type: "text"
+        },
         ytURL: {
             type: "text"
         }

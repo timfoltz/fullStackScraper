@@ -20,12 +20,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![MIT License][license-shield]][license-url] -->
+[![LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/timothyfoltz/)]
 
 
 
@@ -39,7 +39,7 @@
   <h3 align="center">Full Stack Web Scraper</h3>
 
   <p align="center">
-    My first attempt at making a full stack web scraper. You submit a YouTube channel URL and it will add the title and avitar URL to a MySQL database, and then render on an HTML page after reload.
+    My first attempt at making a full stack web scraper. You submit a YouTube channel URL and it will add the title and avatar URL to a MySQL database, and then render on an HTML page after reload.
     <br />
     <a href="https://github.com/timfoltz/fullStackScraper"><strong>Explore the docs »</strong></a>
     <br />
@@ -195,4 +195,4 @@ Project Link: [https://github.com/timfoltz/fullStackScraper](https://github.com/
 [license-shield]: https://img.shields.io/github/license/timfoltz/repo.svg?style=for-the-badge
 [license-url]: https://github.com/timfoltz/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/timfoltz
+[[linkedin-url](https://www.linkedin.com/in/timothyfoltz/)]: https://linkedin.com/in/timfoltz
