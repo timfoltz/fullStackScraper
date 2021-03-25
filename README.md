@@ -87,16 +87,16 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
+<!-- Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`timfoltz`, `fullStackScraper`, `TimJFoltz`, `timothy.j.foltz2@gmail.com`, `Full Stack Web Scraper`, `My first attempt at making a full stack web scraper. You submit a YouTube channel URL and it will add the title and avitar URL to a MySQL database, and then render on an HTML page after reload.`
+`timfoltz`, `fullStackScraper`, `TimJFoltz`, `timothy.j.foltz2@gmail.com`, `Full Stack Web Scraper`, `My first attempt at making a full stack web scraper. You submit a YouTube channel URL and it will add the title and avitar URL to a MySQL database, and then render on an HTML page after reload.` -->v
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [JavaScript]()
+* [Express]()
+* [MySQL]()
 
 
 
@@ -129,16 +129,13 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+This was truly a learning project. This was the first full stack web scraper I built.
 
 
 
-<!-- ROADMAP -->
-## Roadmap
 
-See the [open issues](https://github.com/timfoltz/fullStackScraper/issues) for a list of proposed features (and known issues).
+
+
 
 
 
@@ -155,10 +152,7 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
@@ -171,12 +165,7 @@ Project Link: [https://github.com/timfoltz/fullStackScraper](https://github.com/
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
 
-* []()
-* []()
-* []()
 
 
 
@@ -195,4 +184,4 @@ Project Link: [https://github.com/timfoltz/fullStackScraper](https://github.com/
 [license-shield]: https://img.shields.io/github/license/timfoltz/repo.svg?style=for-the-badge
 [license-url]: https://github.com/timfoltz/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[[linkedin-url](https://www.linkedin.com/in/timothyfoltz/)]: https://linkedin.com/in/timfoltz
+[[linkedin-url](https://www.linkedin.com/in/timothyfoltz/)]: https://linkedin.com/in/timothyfoltz/
